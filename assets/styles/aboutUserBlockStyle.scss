@@ -1,0 +1,16 @@
+.card {
+  -webkit-box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.2);
+  border: 1px solid white;
+  background-color: #eaeaea;
+  position: relative;
+  margin-top: 15px;
+  &:last-child {
+    margin-bottom: 15px;
+  }
+  .btn {
+    margin-top: 15px;
+    color: white;
+  }
+}

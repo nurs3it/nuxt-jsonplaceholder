@@ -1,0 +1,11 @@
+.about-wrapper {
+  .users {
+    padding: 15px 0 0;
+    width: 100%;
+    .spinner-block {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}

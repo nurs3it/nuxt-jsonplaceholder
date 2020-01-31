@@ -1,0 +1,11 @@
+.user-info {
+  padding: 0;
+  .breadcrumb-item a{
+    cursor: pointer;
+  }
+  .spinner-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

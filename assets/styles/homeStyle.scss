@@ -1,0 +1,14 @@
+.home {
+  width: 100%;
+  display: flex;
+  &_main {
+    padding: 0;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .home {
+    width: 100%;
+    display: block;
+  }
+}

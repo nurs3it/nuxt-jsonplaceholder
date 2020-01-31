@@ -1,0 +1,9 @@
+.error-page {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  &_status {
+    width: 400px;
+    height: 400px;
+  }
+}
